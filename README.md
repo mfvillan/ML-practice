@@ -1,2 +1,2 @@
 # ML-practice
-Doodles for machine learning
+Doodles for machine learning!
